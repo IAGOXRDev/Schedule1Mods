@@ -1,6 +1,6 @@
 # 🦭 ArfSchedule1
 
-Just some modules i made for Schedule 1. Built on **MelonLoader (Il2Cpp / .NET 6)** with a custom IMGUI window, HUD notifications, automation systems, and player enhancements.
+Just some modules i made for Schedule 1
 
 ![Game](https://img.shields.io/badge/Game-Schedule%20I-emerald?style=for-the-badge)
 ![MelonLoader](https://img.shields.io/badge/Loader-MelonLoader%20v0.7+-red?style=for-the-badge)
@@ -9,9 +9,9 @@ Just some modules i made for Schedule 1. Built on **MelonLoader (Il2Cpp / .NET 6
 
 ---
 
-## ⚡ Core Features
+## Features
 
-### 🌾 Farming & Automation (`Farming`)
+###  Farming
 - **Insta Grow:** Instantly advances all planted crops to their fully grown state.
 - **Insta Farm:** Harvests all active buds/produce in one click upon interacting with scissors/clippers, bypassing manual repetitive cuts.
 - **Insta Fill Pots:** Fully fills pots with soil to 100% capacity, levels the dirt surface (`Flat`), and ensures pots are immediately ready for seeding without restrictive warnings.
@@ -19,12 +19,12 @@ Just some modules i made for Schedule 1. Built on **MelonLoader (Il2Cpp / .NET 6
 - **Insta Water Plants:** Maximizes soil moisture to 100% capacity instantly upon watering.
 - **Insta Package:** Automates merchandise packing at packaging tables (Standard & Mk2), filling, sealing, and moving finished packages to the output slot without camera freezes or UI locks.
 
-### 📦 Interactive Item Spawner (`Items`)
+### Interactive Item Spawner
 - **Comprehensive Item Database:** Search, filter by category or alphabetical ranges across all 190+ in-game items.
 - **Custom Quantity & Quick Add:** Spawns items directly into your inventory slots or drops them on the ground.
 - **Instant Cash Generator:** Adds quick cash balances directly to your character's wallet.
 
-### 🛡️ Combat & World Utilities (`Stuff`)
+### World Utilities
 - **God Mode:** Complete invulnerability against all damage types and environmental hazards.
 - **Aimbot:** Smooth or snap target locking on NPCs with customizable Field of View (FOV), on-screen circle visualization, and line-of-sight raycast visibility checks.
 - **ESP (Wallhack):** Renders bounding boxes (2D Box), health bars, distance markers, and names through walls.
@@ -35,14 +35,14 @@ Just some modules i made for Schedule 1. Built on **MelonLoader (Il2Cpp / .NET 6
 - **Hate Mode:** Enrages all NPCs across the map to actively engage and attack the player.
 - **Insta Respawn NPC:** Instantly revives dead NPCs back into the world.
 
-### 🚀 Movement (`Movement`)
+### Movement
 - **Auto Bhop:** Automatically hops upon landing when holding `[Space]`, featuring a live on-screen digital speedometer.
-- **Flight (6-DoF Freecam):** Freely fly around the game world using `W/A/S/D`, `[Space]` to ascend, and `[Left Shift]` to descend.
-- **Noclip:** Walk through walls, closed doors, and solid level geometry with ease.
+- **Flight** This one is a bit broken for now.
+- **Noclip:** This one is a bit broken for now.
 
 ---
 
-## 🎮 Keybindings & Controls
+## Keybindings
 
 | Key / Action | Description |
 | :--- | :--- |
@@ -53,7 +53,7 @@ Just some modules i made for Schedule 1. Built on **MelonLoader (Il2Cpp / .NET 6
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 1. Install [MelonLoader](https://melonloader.com/) (v0.7.0 or higher) into your **Schedule I** game directory.
 2. Download the latest `ArfSchedule1.dll` from the [Releases](https://github.com/) tab.
@@ -84,5 +84,4 @@ The compiled library will be output to `bin/Release/net6.0/ArfSchedule1.dll`.
 
 ---
 
-## 📜 License
-Distributed under the MIT License. Developed for single-player exploration, modding, and educational purposes.
+
