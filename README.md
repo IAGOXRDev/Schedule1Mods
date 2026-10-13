@@ -1,6 +1,6 @@
-# 🌿 ArfSchedule1 (Schedule I Mod Client)
+# 🦭 ArfSchedule1
 
-A feature-rich, modular Il2Cpp mod client and interactive cheat menu for **Schedule I**, built on **MelonLoader (Il2Cpp / .NET 6)** with a custom IMGUI window, HUD notifications, automation systems, and player enhancements.
+Just some modules i made for Schedule 1
 
 ![Game](https://img.shields.io/badge/Game-Schedule%20I-emerald?style=for-the-badge)
 ![MelonLoader](https://img.shields.io/badge/Loader-MelonLoader%20v0.7+-red?style=for-the-badge)
