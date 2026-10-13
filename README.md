@@ -37,8 +37,8 @@ Just some modules i made for Schedule 1
 
 ### Movement
 - **Auto Bhop:** Automatically hops upon landing when holding `[Space]`, featuring a live on-screen digital speedometer.
-- **Flight (6-DoF Freecam):** Freely fly around the game world using `W/A/S/D`, `[Space]` to ascend, and `[Left Shift]` to descend.
-- **Noclip:** Walk through walls, closed doors, and solid level geometry with ease.
+- **Flight** This one is a bit broken for now.
+- **Noclip:** This one is a bit broken for now.
 
 ---
 
